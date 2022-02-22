@@ -1,6 +1,6 @@
 # assignment_flutter_1
 
-A new Flutter project.
+A new Flutter project. Not really tho. I just wanted to try out the bottom navigation bar.
 
 ## Getting Started
 
